@@ -5,7 +5,7 @@ KimiAI Bot –AI Chatbot Using Streamlit and Groq API
 # Description :
 
 KimiAI Bot is a web-based AI chatbot application developed using Python, Streamlit, and the Groq API. The chatbot allows users to interact with an AI language model through a simple and user-friendly chat interface.
-The application uses the [ MOONSHOT AI Kimi-K2 Instruct ] model via the Groq API to generate intelligent responses in real-time. It supports streaming responses, meaning users can see the reply being generated live instead of waiting for the full output.
+The application uses the ( MOONSHOT AI Kimi-K2 Instruct ) model via the Groq API to generate intelligent responses in real-time. It supports streaming responses, meaning users can see the reply being generated live instead of waiting for the full output.
 This project demonstrates how modern AI APIs can be integrated with web frameworks to build interactive AI-powered applications.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------

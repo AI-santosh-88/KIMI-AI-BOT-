@@ -46,11 +46,11 @@ Library ----------------------- Purpose
 
 Streamlit -------------------- Build the chatbot web interface
 
-Groq Python SDK----------- Connect to the Groq AI API
+Groq Python SDK--------------- Connect to the Groq AI API
 
-Python---------------------- Core programming language
+Python------------------------ Core programming language
 
-dotenv ---------------------- Load environment variables fro.envfile
+dotenv ----------------------- Load environment variables fro.envfile
 
 os---------------------------- Access environment variable
 
